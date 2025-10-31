@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_muro",
+  "%Name":"arbo",
   "eventList":[],
   "managed":true,
-  "name":"obj_muro",
+  "name":"arbo",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"muro",
-    "path":"sprites/muro/muro.yy",
+    "name":"arbol",
+    "path":"sprites/arbol/arbol.yy",
   },
   "spriteMaskId":null,
   "visible":true,
