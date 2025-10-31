@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object67",
+  "%Name":"wa",
   "eventList":[],
   "managed":true,
-  "name":"Object67",
+  "name":"wa",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"arbol",
-    "path":"sprites/arbol/arbol.yy",
+    "name":"arbusto",
+    "path":"sprites/arbusto/arbusto.yy",
   },
   "spriteMaskId":null,
   "visible":true,
