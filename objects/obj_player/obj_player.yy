@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"quieto_der",
+    "path":"sprites/quieto_der/quieto_der.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
